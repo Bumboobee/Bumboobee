@@ -1,4 +1,4 @@
-## Olá eu sou o José, mas pode me chamar de Zé!
+## Olá [world] eu sou o José! mas pode me chamar de Zé!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
