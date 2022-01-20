@@ -1,4 +1,4 @@
-## Hello World! I call José but you can call me only Zé... I'm here as a Front-end lover, and i'd like to share my work with you all 🐋
+## Hello World! I'm José but you can call me only Zé... I'm here as a Front-end lover, and i'd like to share my work with you all 🐋
 <div align="center">
   <a href="https://github.com/Bumboobee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
