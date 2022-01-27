@@ -17,7 +17,7 @@
   
 <div style="display: inline_block">
  <br>
-   <img align="right" alt="Bumboobee-pic" height="150" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
+   <img align="right" alt="Bumboobee-pic" height="200" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=700&height=700">
 </div>
 
  #
