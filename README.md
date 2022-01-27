@@ -6,7 +6,8 @@
 </div>
   
   
-<div style="color: blue"><br>
+<div style="display: inline_block"><br>
+  ![bg](red)
   <img align="center" alt="Bumboobee-Js" height="30" width="40" color="00006f" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bumboobee-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bumboobee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
