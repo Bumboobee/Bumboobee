@@ -19,5 +19,5 @@
    
   <br/>
   <br/>
-  <img alt="Bumboobee-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
+  <img alt="Bumboobee-pic" align="center" height="150" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
 </div>
