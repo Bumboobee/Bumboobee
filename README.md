@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Bumboobee-Js" height="30" width="40" color="00006f" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img background-color:"red" align="center" alt="Bumboobee-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img background-color:"red"!Important align="center" alt="Bumboobee-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bumboobee-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bumboobee-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Bumboobee-pic" height="150" style="border-radius:50px" style="border: 40px" style="border-color:black" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
