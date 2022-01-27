@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/Bumboobee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumboobee&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumboobee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
    <img alt="Bumboobee-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=1000&height=676">
