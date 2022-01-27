@@ -15,13 +15,14 @@
 </div>
   
   
-<div style="display: inline_block">
+<div style="display: inline_block" alingn="center">
  <br>
-   <img align="right" alt="Bumboobee-pic" height="200" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=700&height=700">
+   <img align="center" alt="Bumboobee-pic" height="200" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=700&height=700">
 </div>
 
  #
-<div> 
+ <br>
+<div aling="center"> 
   <a href="https://www.instagram.com/silva.j0se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00006f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/gZfUKBRb" target="_blank"><img src="https://img.shields.io/badge/Discord-00006f?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:juniorsilva240803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00006f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
