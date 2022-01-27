@@ -1,14 +1,12 @@
 <p align="left"> 
- 🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
+ 🖖 Hi, my name is José. I'm <strong>Front-end developer</strong>.
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
+ ☕ Skills: <strong>HTML, CSS, JavaScript, Figma.</strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
-</p>
+<br>
 
 <div align="center">
   <a href="https://github.com/Bumboobee">
@@ -17,12 +15,10 @@
 </div>
   
   
-<div style="display: inline_block"><br>
-  
-   <img align="right" alt="Bumboobee-pic" height="150" style="border-radius:50px" style="border: 40px"      src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
+<div style="display: inline_block">
+ <br>
+   <img align="right" alt="Bumboobee-pic" height="150" src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/silva.j0se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00006f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
