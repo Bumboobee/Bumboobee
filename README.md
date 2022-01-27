@@ -1,4 +1,3 @@
-## Hello World! I'm José but you can call me only Zé... I'm here as a Front-end lover, and i'd like to share my work with you all 🐋
 <div align="center">
   <a href="https://github.com/Bumboobee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -7,9 +6,18 @@
   
   
 <div style="display: inline_block"><br>
-  <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript.</strong>
- </p>
+<p align="left"> 
+ 🖖 Olá, meu nome é Iuri Silva. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
+</p>
+
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, TypeScript, Next.js e Styled Components.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git e GitHub.</strong>
+</p>
+  
    <img align="right" alt="Bumboobee-pic" height="150" style="border-radius:50px" style="border: 40px"      src="https://i.pinimg.com/originals/b4/31/e1/b431e16582f1f89c6714d8a1e7da1c1d.gif?width=676&height=676">
 </div>
   
