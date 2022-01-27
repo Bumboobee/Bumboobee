@@ -13,7 +13,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumboobee&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  
+
+ <br>
+ <br>
   
 <div style="display: inline_block">
  <br>
@@ -21,7 +23,6 @@
 </div>
 
  #
- <br>
 <div> 
   <a href="https://www.instagram.com/silva.j0se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00006f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/gZfUKBRb" target="_blank"><img src="https://img.shields.io/badge/Discord-00006f?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
