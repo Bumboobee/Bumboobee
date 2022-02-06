@@ -11,9 +11,9 @@
 <a href = "mailto:juniorsilva240803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00006f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jos%C3%A9-aparecido-ba0564202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00006f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
  &nbsp;
+  &nbsp;
+</div>
  
 <div align="center">
   <a href="https://github.com/rafaballerini">
