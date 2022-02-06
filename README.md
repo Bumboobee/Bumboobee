@@ -2,6 +2,23 @@
 <img src="header.svg" />
 </p>
 
+
+<div align="center">
+
+<a href="https://www.instagram.com/silva.j0se/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00006f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+&nbsp;
+ <a href="https://discord.gg/gZfUKBRb" target="_blank"><img src="https://img.shields.io/badge/Discord-00006f?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+&nbsp;
+<a href = "mailto:juniorsilva240803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00006f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jos%C3%A9-aparecido-ba0564202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00006f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+&nbsp;
+  
+  
 <div align="center">
   <a href="https://github.com/Bumboobee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
