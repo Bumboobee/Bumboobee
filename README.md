@@ -20,6 +20,17 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumboobee&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+ Currently learning/improving:
+
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+&nbsp;
+![CSS](https://img.shields.io/badge/Css-61DAFB?style=for-the-badge&logo=css&logoColor=35495E)
+&nbsp;
+![C#](https://img.shields.io/badge/C%23-1D9924?style=for-the-badge&logo=csharp&logoColor=white)
+&nbsp;
+![DOTNET](https://img.shields.io/badge/.NET-4E2BCD?style=for-the-badge&logo=dotnet&logoColor=white)
+
+&nbsp;
 
  </div> 
   ![Snake animation](https://github.com/Bumboobee/Bumboobee/blob/output/github-contribution-grid-snake.svg)
