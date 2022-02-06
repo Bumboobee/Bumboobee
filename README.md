@@ -1,6 +1,7 @@
-<p align="left"> 
- 🖖 Hi, my name is José. I'm <strong>Front-end developer</strong>.
+<p align="center">
+<img src="header.svg" />
 </p>
+
 <div align="center">
   <a href="https://github.com/Bumboobee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
