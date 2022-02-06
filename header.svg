@@ -58,10 +58,6 @@
           font-size: 2em;
         }
 
-				.typing-demo b {
-					text-decoration: underline;
-				}
-
         @keyframes typing {
           from {
             width: 0
