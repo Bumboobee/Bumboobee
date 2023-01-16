@@ -16,7 +16,7 @@
 &nbsp;
 ![DOTNET](https://img.shields.io/badge/.NET-00008b?style=for-the-badge&logo=dotnet&logoColor=8c00ca)
 &nbsp;
-![REACT](https://img.shields.io/badge/REACT-00008b?style=for-the-badge&logo=react&logoColor=8c00ca)
+![REACT](https://img.shields.io/badge/REACT-00008b?style=for-the-badge&logo=react&logoColor=61DAFB)
 &nbsp;
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bumboobee&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
