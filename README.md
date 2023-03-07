@@ -42,5 +42,7 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-aparecido-bee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/Bumboobee/Bumboobee/blob/output/github-contribution-grid-snake.svg)
+
+[![Full activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bumboobee&theme=github-compact)](https://github.com/Bumboobee/github-readme-activity-graph)  
  
 </div>
