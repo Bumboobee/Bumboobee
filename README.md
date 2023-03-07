@@ -43,6 +43,6 @@
  
 ![Snake animation](https://github.com/Bumboobee/Bumboobee/blob/output/github-contribution-grid-snake.svg)
 
-[![Full activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bumboobee&theme=github-compact)](https://github.com/Bumboobee)  
+[![Full activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bumboobee&bg_color=0D1117&color=708090&line=00008b&point=5BCDEC&area=true&area_color=00008b&hide_border=true)](https://github.com/Bumboobee)  
  
 </div>
