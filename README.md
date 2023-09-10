@@ -37,15 +37,6 @@
 
 <br />
 
-<details>
-<summary>☄ Contribution chart</summary>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bumboobee&theme=github-dark-blue&border_radius=4)](https://git.io/streak-stats)
-
-</details>
-
-<br />
-
 <a href="https://www.instagram.com/_jozesilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:juniorsilva240803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00008b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9-aparecido-bee" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
