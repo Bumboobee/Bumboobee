@@ -36,6 +36,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bumboobee&layout=compact&langs_count=7&theme=github_dark"/>
 
 <br />
+&nbsp;
 
 <a href="https://www.instagram.com/_jozesilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-00008b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:juniorsilva240803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00008b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
